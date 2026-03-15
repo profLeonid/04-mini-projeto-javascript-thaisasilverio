@@ -121,3 +121,15 @@ footer p {
   text-align: center;
   padding: 1rem;
 }
+
+.resultado.cinco {
+  background-color: #14532d;
+}
+
+.resultado.cinco-dez {
+  background-color: #713f12;
+}
+
+.resultado.maiorDez {
+  background-color: #7f1d1d;
+}

@@ -110,6 +110,14 @@ button:hover {
   justify-content: center;
 }
 
+.resultado.apto {
+  background-color: darkgreen;
+}
+
+.resultado.nao-apto {
+  background-color:firebrick;
+}
+
 footer {
   display: flex;
   align-items: flex-end;

@@ -123,3 +123,15 @@ footer p {
   text-align: center;
   padding: 1rem;
 }
+
+.resultado.aprovado{
+background-color: #14532d;
+}
+
+.resultado.recuperacao{
+background-color: #713f12;
+}
+
+.resultado.reprovado{
+background-color: #7f1d1d;
+}
